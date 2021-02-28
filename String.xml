@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Assesment2</string>
+    <string name="Question1">What is the longest Sea beach in the world</string>
+    <string name="Question2">Who is the owner of android OS</string>
+    <string name="Coxs_Bazar">Coxs Bazar</string>
+    <string name="Stockton_Beach">Stockton Beach</string>
+    <string name="Virginia_Beach">Virginia Beach</string>
+    <string name="Bali_Sea_beach">Bali Sea-beach</string>
+
+    <string name="Walton">Walton</string>
+    <string name="Hawaei">Hawaei</string>
+    <string name="Apple">Apple</string>
+    <string name="Google">Google</string>
+</resources>
