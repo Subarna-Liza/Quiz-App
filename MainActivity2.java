@@ -30,6 +30,8 @@ public class MainActivity2 extends AppCompatActivity {
         MyRadioButton2 = findViewById(SelectedRadioButtonId2);
         if (MyRadioButton2.getText().toString().equals("Google")) {
             marks = FirstoutputMarks+5;
+        }else{
+            marks = FirstoutputMarks+0;
         }
         Intent MyIntent2=new Intent(MainActivity2.this,MainActivity3.class);
         MyIntent2.putExtra(ExtraData2,marks);
